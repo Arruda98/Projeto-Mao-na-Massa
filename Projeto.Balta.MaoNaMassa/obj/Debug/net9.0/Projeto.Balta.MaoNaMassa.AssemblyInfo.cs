@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto.Balta.MaoNaMassa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cc5af3280f015476523da5f5f640c5f18bc0e98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto.Balta.MaoNaMassa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto.Balta.MaoNaMassa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
