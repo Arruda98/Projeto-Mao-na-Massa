@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "mSugyfrz5YA=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\suporte\\source\\repos\\Projeto-Mao-na-Massa\\Projeto.Balta.MaoNaMassa\\Projeto.Balta.MaoNaMassa.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "mSugyfrz5YA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suporte\\source\\repos\\Projeto-Mao-na-Massa\\Projeto.Balta.MaoNaMassa\\Projeto.Balta.MaoNaMassa.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 17bb7a8 (Continuidade nos estudos em POO)
 }

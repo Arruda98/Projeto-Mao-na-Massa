@@ -1,0 +1,15 @@
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\bin\Debug\net9.0\Projeto.Balta.MaoNaMassa.exe
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\bin\Debug\net9.0\Projeto.Balta.MaoNaMassa.deps.json
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\bin\Debug\net9.0\Projeto.Balta.MaoNaMassa.runtimeconfig.json
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\bin\Debug\net9.0\Projeto.Balta.MaoNaMassa.dll
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\bin\Debug\net9.0\Projeto.Balta.MaoNaMassa.pdb
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\Projeto.Balta.MaoNaMassa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\Projeto.Balta.MaoNaMassa.AssemblyInfoInputs.cache
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\Projeto.Balta.MaoNaMassa.AssemblyInfo.cs
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\Projeto.Balta.MaoNaMassa.csproj.CoreCompileInputs.cache
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\Projeto.Balta.MaoNaMassa.sourcelink.json
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\Projeto.Balta.MaoNaMassa.dll
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\refint\Projeto.Balta.MaoNaMassa.dll
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\Projeto.Balta.MaoNaMassa.pdb
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\Projeto.Balta.MaoNaMassa.genruntimeconfig.cache
+C:\Users\suporte\source\repos\Projeto-Mao-na-Massa\Projeto.Balta.MaoNaMassa\obj\Debug\net9.0\ref\Projeto.Balta.MaoNaMassa.dll
