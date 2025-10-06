@@ -1,18 +1,18 @@
-<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "mSugyfrz5YA=",
   "success": true,
   "projectFilePath": "C:\\Users\\suporte\\source\\repos\\Projeto-Mao-na-Massa\\Projeto.Balta.MaoNaMassa\\Projeto.Balta.MaoNaMassa.csproj",
   "expectedPackageFiles": [],
-  "logs": []
-=======
-{
-  "version": 2,
-  "dgSpecHash": "mSugyfrz5YA=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\suporte\\source\\repos\\Projeto-Mao-na-Massa\\Projeto.Balta.MaoNaMassa\\Projeto.Balta.MaoNaMassa.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
->>>>>>> 17bb7a8 (Continuidade nos estudos em POO)
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\suporte\\source\\repos\\Projeto-Mao-na-Massa\\Projeto.Balta.MaoNaMassa\\obj\\project.nuget.cache: '<' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\suporte\\source\\repos\\Projeto-Mao-na-Massa\\Projeto.Balta.MaoNaMassa\\Projeto.Balta.MaoNaMassa.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\suporte\\source\\repos\\Projeto-Mao-na-Massa\\Projeto.Balta.MaoNaMassa\\Projeto.Balta.MaoNaMassa.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

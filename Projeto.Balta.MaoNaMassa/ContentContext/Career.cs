@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-namespace Balta.ContentContext
-{
-    public class Career : Content
-    {
-        public int Courses { get; set; }
-    }
-=======
 namespace Projeto.Balta.MaoNaMassa.ContentContext
 {
     public class Career : Content
@@ -22,5 +14,4 @@ namespace Projeto.Balta.MaoNaMassa.ContentContext
             } 
         }
     }
->>>>>>> 17bb7a8 (Continuidade nos estudos em POO)
 }

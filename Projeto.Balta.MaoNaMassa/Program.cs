@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-﻿using System;
-
-namespace Balta.ContentContext
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var course = new Course();
-        }
-    }
-=======
 ﻿using System;
 
 namespace Projeto.Balta.MaoNaMassa.ContentContext
@@ -43,9 +30,9 @@ namespace Projeto.Balta.MaoNaMassa.ContentContext
 
             var carrers = new List<Career>();
             var carrerDotnet = new Career("Especialista .NET", "especialista-dotnet");
-            var carrerItem3 = new CarrerItem(3, "Aprenda .NET", "", null);
-            var carrerItem = new CarrerItem(1, "Comece por aqui", "", null);
-            var carrerItem2 = new CarrerItem(2, "Aprenda OOP", "", null);
+            var carrerItem3 = new CarrerItem(3, "Aprenda .NET", "", courseAspNet);
+            var carrerItem = new CarrerItem(1, "Comece por aqui", "", courseCsharp);
+            var carrerItem2 = new CarrerItem(2, "Aprenda OOP", "", courseOOP);
             carrerDotnet.Items.Add(carrerItem2);
             carrerDotnet.Items.Add(carrerItem3);
             carrerDotnet.Items.Add(carrerItem);
@@ -57,9 +44,10 @@ namespace Projeto.Balta.MaoNaMassa.ContentContext
                 foreach (var item in carrer.Items.OrderBy(x => x.Order))
                 {
                     Console.WriteLine($"{item.Order} - {item.Title}");
+                    Console.WriteLine(item.Course.Title);
+                    Console.WriteLine(item.Course.Level);
                 }
             }
         }
     }
->>>>>>> 17bb7a8 (Continuidade nos estudos em POO)
 }

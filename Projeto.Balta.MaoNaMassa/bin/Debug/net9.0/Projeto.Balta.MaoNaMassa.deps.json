@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v9.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Projeto.Balta.MaoNaMassa/1.0.0": {
+        "runtime": {
+          "Projeto.Balta.MaoNaMassa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto.Balta.MaoNaMassa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 81761184678bbd70919da7cebc7f9f949e3fd50c
 }

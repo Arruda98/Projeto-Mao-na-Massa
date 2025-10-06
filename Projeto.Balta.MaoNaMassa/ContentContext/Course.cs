@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-namespace Balta.ContentContext
-{
-    public class Course : Content 
-    {
-        public Course()
-        {
-            Modules = new List<Module>();
-        }
-
-        public string Tag { get; set; }
-        public IList<Module> Modules { get; set; }
-        public int DurationInMinutes { get; set; }
-        public string Level { get; set; }
-    }
-
-   
-=======
 using Projeto.Balta.MaoNaMassa.ContentContext.Enums;
 using System.Security.Cryptography;
 
@@ -34,7 +16,4 @@ namespace Projeto.Balta.MaoNaMassa.ContentContext
         public int DurationInMinutes { get; set; }
         public EContentLevel Level { get; set; }
     }
-
-   
->>>>>>> 17bb7a8 (Continuidade nos estudos em POO)
 }
